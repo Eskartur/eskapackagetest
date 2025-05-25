@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+eskapackagetest/__init__.py
+eskapackagetest/chinese.py
+eskapackagetest/english.py
+eskapackagetest.egg-info/PKG-INFO
+eskapackagetest.egg-info/SOURCES.txt
+eskapackagetest.egg-info/dependency_links.txt
+eskapackagetest.egg-info/requires.txt
+eskapackagetest.egg-info/top_level.txt
